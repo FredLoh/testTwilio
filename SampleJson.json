@@ -1,0 +1,26 @@
+{
+  "lista-juegos-body": [
+    {
+      "fecha": "Mié 8-Mar",
+      "hora": "19:05",
+      "cancha": "No Definida",
+      "equipovsID": 107109,
+      "equipovs": "Manchester City",
+      "jornada": "Jornada 1",
+      "estatus": "Jugado",
+      "codigost": 1,
+      "tipo2leg": 0
+    },
+    {
+      "fecha": "Vie 10-Mar",
+      "hora": "9:00",
+      "cancha": "Cancha 14",
+      "equipovsID": 145633,
+      "equipovs": "perros",
+      "jornada": "Jornada 1",
+      "estatus": "Normal",
+      "codigost": 0,
+      "tipo2leg": 0
+    }
+  ]
+}
